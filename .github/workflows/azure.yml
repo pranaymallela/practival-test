@@ -1,0 +1,9 @@
+public void testGoNextFromDifferentPositions()
+{
+}
+
+//try to set the entryIndex to invalid values (such as negative values or numbers higher than the number of entries)
+
+public void testSetCurrentEntryIndexWithInvalidValues()
+{
+}
